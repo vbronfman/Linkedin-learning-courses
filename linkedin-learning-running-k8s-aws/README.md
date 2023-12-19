@@ -104,5 +104,4 @@ Look into VPC, EC2, CloudFormation and EKS for leftovers and remove them if any.
 
 
 
-git subtree add --prefix ./linkedin-learning-running-k8s-aws https://github.com/vbronfman/Linkedin-learning-courses.git main --squash
 
